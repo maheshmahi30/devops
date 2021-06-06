@@ -1,6 +1,6 @@
 mahesh hello
 sandeep hello
-<<<<<<< HEAD
+
 mlknujhgjhg
 hello
->>>>>>> f4639b4f0f83d06f6b470f5bfc860e1e657e1b85
+
